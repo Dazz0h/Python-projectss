@@ -15,3 +15,4 @@ Magic8Ball.py - The magic 8 ball cloned in a program, the cool thing about this 
 PasswordDetection.py - What this program does is to ask the user for their password and prints "That's one strong password" if the len() function returns 8 and if it doesn't it prints out "May god have mercy on your account". 
 
 poetry.py - Generates random poetry
+Will be adding a Youtube bot as well
